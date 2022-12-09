@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body{
+  font-family: cursive;
+  width: 100%;
+}
+#banner{
+  background: linear-gradient(rgba(0,0,0,0.5),#009688),url(back.jpg);
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.logo{
+  width: 140px;
+  position: absolute;
+  top: 4;
+  left: 10;
+}
